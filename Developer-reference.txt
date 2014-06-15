@@ -1,9 +1,0 @@
-Developer-reference:
---------------------
-
-Created Date: 2014-05-18
-
-Supported Version: Magento ver 1.5.x, 1.6.x, 1.7.x, 1.8.x
-
-
-This is a basic Magento module. This gives the developer starting point to create any frontend extensions. This module has all the basic skeleton folder for the frontend and resource and database table.
